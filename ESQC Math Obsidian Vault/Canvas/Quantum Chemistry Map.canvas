@@ -11,17 +11,6 @@
       "label": "Computational regimes"
     },
     {
-      "id": "22b65cfcfd3d6f02",
-      "type": "text",
-      "text": "### Convex Analysis",
-      "styleAttributes": {},
-      "x": -1800,
-      "y": -2262,
-      "width": 351,
-      "height": 85,
-      "color": "3"
-    },
-    {
       "id": "fc3f34261ffd5d05",
       "type": "text",
       "text": "### Optimization",
@@ -31,41 +20,6 @@
       "width": 351,
       "height": 80,
       "color": "3"
-    },
-    {
-      "id": "c34aacca559e12b8",
-      "type": "text",
-      "text": "### Hartree-Fock theory",
-      "styleAttributes": {},
-      "x": -1265,
-      "y": -2017,
-      "width": 360,
-      "height": 125,
-      "color": "5"
-    },
-    {
-      "id": "28efa3dc8537164c",
-      "type": "text",
-      "text": "### Density-functional theory\n- Hohenberg--Kohn theory\n- Lieb theory\n- Kohn-Sham theory",
-      "styleAttributes": {},
-      "x": -1265,
-      "y": -2326,
-      "width": 360,
-      "height": 211,
-      "color": "5"
-    },
-    {
-      "id": "4d702fd69a978041",
-      "type": "text",
-      "text": "### Configuration-Interaction Method\n",
-      "styleAttributes": {
-        "shape": null
-      },
-      "x": -1265,
-      "y": -1767,
-      "width": 360,
-      "height": 87,
-      "color": "5"
     },
     {
       "id": "3ba02d1c9bfc4c6e",
@@ -88,54 +42,6 @@
       "width": 351,
       "height": 80,
       "color": "3"
-    },
-    {
-      "id": "61e6dcb53f327d75",
-      "type": "text",
-      "text": "### Density-Matrix Renormalizaton Group Theory\n",
-      "styleAttributes": {
-        "shape": null
-      },
-      "x": -1256,
-      "y": -880,
-      "width": 351,
-      "height": 160,
-      "color": "5"
-    },
-    {
-      "id": "725c2f2bbbc4665c",
-      "type": "text",
-      "text": "### Multiconfiguration Theory\n",
-      "styleAttributes": {
-        "shape": null
-      },
-      "x": -1256,
-      "y": -680,
-      "width": 351,
-      "height": 80,
-      "color": "5"
-    },
-    {
-      "id": "a12f5a258bbe8615",
-      "type": "text",
-      "text": "### [[math-map#Differential Geometry|Differential Geometry]]",
-      "styleAttributes": {},
-      "x": -825,
-      "y": -2561,
-      "width": 351,
-      "height": 80,
-      "color": "3"
-    },
-    {
-      "id": "114ace6d4431c99e",
-      "type": "text",
-      "text": "### Coupled-Cluster Theory\n- Non-variational theory",
-      "styleAttributes": {},
-      "x": -1265,
-      "y": -1570,
-      "width": 360,
-      "height": 160,
-      "color": "5"
     },
     {
       "id": "71ec556ff0bab569",
@@ -184,83 +90,6 @@
       "color": "3"
     },
     {
-      "id": "e46c1fccc65cebb6",
-      "type": "text",
-      "text": "### Born-Oppenheimer Approximation\n- Semiclassical theory of nuclei",
-      "styleAttributes": {},
-      "x": -570,
-      "y": -2175,
-      "width": 351,
-      "height": 158,
-      "color": "4"
-    },
-    {
-      "id": "d8d0c5f5f17d5133",
-      "type": "text",
-      "text": "### Functional Analysis",
-      "styleAttributes": {},
-      "x": -144,
-      "y": -2050,
-      "width": 351,
-      "height": 66,
-      "color": "3"
-    },
-    {
-      "id": "af14fbb1a8de7dc5",
-      "type": "text",
-      "text": "### Partial Differential Equations",
-      "styleAttributes": {},
-      "x": -144,
-      "y": -2220,
-      "width": 351,
-      "height": 80,
-      "color": "3"
-    },
-    {
-      "id": "08d4f0f2211e5906",
-      "type": "text",
-      "text": "### Classical mechanics\n- Lagrange mechanics\n- Hamiltonian mechanics",
-      "styleAttributes": {},
-      "x": -395,
-      "y": -2612,
-      "width": 351,
-      "height": 181,
-      "color": "4"
-    },
-    {
-      "id": "958f6b68e689af2a",
-      "type": "text",
-      "text": "### Many-body Perturbation Theory",
-      "styleAttributes": {},
-      "x": -1265,
-      "y": -1289,
-      "width": 360,
-      "height": 118,
-      "color": "5"
-    },
-    {
-      "id": "b5faec2ddcbbed25",
-      "type": "text",
-      "text": "### Green's Function theory",
-      "styleAttributes": {},
-      "x": -1265,
-      "y": -1080,
-      "width": 360,
-      "height": 120,
-      "color": "5"
-    },
-    {
-      "id": "92d7c1eeafa80f78",
-      "type": "text",
-      "text": "### Nonrelativistic Quantum mechanics\n- Molecular Schrödinger equation\n- Semiclassical EM treatment",
-      "styleAttributes": {},
-      "x": 120,
-      "y": -2612,
-      "width": 351,
-      "height": 181,
-      "color": "4"
-    },
-    {
       "id": "1dce365cb4f5bbc5",
       "type": "text",
       "text": "### Partial Differential Equations",
@@ -283,15 +112,131 @@
       "color": "3"
     },
     {
-      "id": "a5f64abc953e0417",
+      "id": "22b65cfcfd3d6f02",
       "type": "text",
-      "text": "### Linear Algebra",
+      "text": "### Convex Analysis",
       "styleAttributes": {},
-      "x": 560,
-      "y": -2416,
+      "x": -1800,
+      "y": -2262,
       "width": 351,
-      "height": 90,
+      "height": 85,
       "color": "3"
+    },
+    {
+      "id": "c34aacca559e12b8",
+      "type": "text",
+      "text": "### Hartree-Fock theory",
+      "styleAttributes": {},
+      "x": -1265,
+      "y": -2017,
+      "width": 360,
+      "height": 125,
+      "color": "5"
+    },
+    {
+      "id": "28efa3dc8537164c",
+      "type": "text",
+      "text": "### Density-functional theory\n- Hohenberg--Kohn theory\n- Lieb theory\n- Kohn-Sham theory",
+      "styleAttributes": {},
+      "x": -1265,
+      "y": -2326,
+      "width": 360,
+      "height": 211,
+      "color": "5"
+    },
+    {
+      "id": "4d702fd69a978041",
+      "type": "text",
+      "text": "### Configuration-Interaction Method\n",
+      "styleAttributes": {
+        "shape": null
+      },
+      "x": -1265,
+      "y": -1767,
+      "width": 360,
+      "height": 87,
+      "color": "5"
+    },
+    {
+      "id": "114ace6d4431c99e",
+      "type": "text",
+      "text": "### Coupled-Cluster Theory\n- Non-variational theory",
+      "styleAttributes": {},
+      "x": -1265,
+      "y": -1570,
+      "width": 360,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "958f6b68e689af2a",
+      "type": "text",
+      "text": "### Many-body Perturbation Theory",
+      "styleAttributes": {},
+      "x": -1265,
+      "y": -1289,
+      "width": 360,
+      "height": 118,
+      "color": "5"
+    },
+    {
+      "id": "61e6dcb53f327d75",
+      "type": "text",
+      "text": "### Density-Matrix Renormalizaton Group Theory\n",
+      "styleAttributes": {
+        "shape": null
+      },
+      "x": -1256,
+      "y": -880,
+      "width": 351,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "725c2f2bbbc4665c",
+      "type": "text",
+      "text": "### Multiconfiguration Theory\n",
+      "styleAttributes": {
+        "shape": null
+      },
+      "x": -1256,
+      "y": -680,
+      "width": 351,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "b5faec2ddcbbed25",
+      "type": "text",
+      "text": "### Green's Function theory",
+      "styleAttributes": {},
+      "x": -1265,
+      "y": -1080,
+      "width": 360,
+      "height": 120,
+      "color": "5"
+    },
+    {
+      "id": "470f923eb05ca47e",
+      "type": "text",
+      "text": "### Group Theory",
+      "styleAttributes": {},
+      "x": -746,
+      "y": -1270,
+      "width": 351,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "08d4f0f2211e5906",
+      "type": "text",
+      "text": "### Classical mechanics\n- Lagrange mechanics\n- Hamiltonian mechanics",
+      "styleAttributes": {},
+      "x": -395,
+      "y": -2612,
+      "width": 351,
+      "height": 181,
+      "color": "4"
     },
     {
       "id": "3cae5f7d4e0b945b",
@@ -305,34 +250,45 @@
       "color": "4"
     },
     {
-      "id": "e9081273559f4fab",
+      "id": "a12f5a258bbe8615",
       "type": "text",
-      "text": "### Partial Differential Equations",
+      "text": "### [[Mathematics Map Details#Differential Geometry|Differential Geometry]]",
       "styleAttributes": {},
-      "x": 1320,
-      "y": -2057,
+      "x": -825,
+      "y": -2561,
       "width": 351,
       "height": 80,
       "color": "3"
+    },
+    {
+      "id": "af14fbb1a8de7dc5",
+      "type": "text",
+      "text": "### Partial Differential Equations",
+      "styleAttributes": {},
+      "x": -144,
+      "y": -2220,
+      "width": 351,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "92d7c1eeafa80f78",
+      "type": "text",
+      "text": "### Nonrelativistic Quantum mechanics\n- Molecular Schrödinger equation\n- Semiclassical EM treatment",
+      "styleAttributes": {},
+      "x": 120,
+      "y": -2612,
+      "width": 351,
+      "height": 181,
+      "color": "4"
     },
     {
       "id": "42169da2520d7fa8",
       "type": "text",
-      "text": "### [[math-map#^Functional Analysis|Functional Analysis]]",
+      "text": "### [[Mathematics Map Details#Functional Analysis|Functional Analysis]]",
       "styleAttributes": {},
       "x": -745,
       "y": -1409,
-      "width": 351,
-      "height": 80,
-      "color": "3"
-    },
-    {
-      "id": "470f923eb05ca47e",
-      "type": "text",
-      "text": "### Group Theory",
-      "styleAttributes": {},
-      "x": -746,
-      "y": -1270,
       "width": 351,
       "height": 80,
       "color": "3"
@@ -347,28 +303,6 @@
       "width": 351,
       "height": 80,
       "color": "3"
-    },
-    {
-      "id": "69164c9bafdc53d6",
-      "type": "text",
-      "text": "### Special Relativity\n- Lorenz invariance\n",
-      "styleAttributes": {},
-      "x": 120,
-      "y": -1289,
-      "width": 351,
-      "height": 126,
-      "color": "4"
-    },
-    {
-      "id": "a296b50c1490ef02",
-      "type": "text",
-      "text": "### Quantum electrodynamics\n- Quantum theory of matter-field interactions\n- Matter interacting with electromagnetic fields\n- Electron spin",
-      "styleAttributes": {},
-      "x": 120,
-      "y": -1741,
-      "width": 351,
-      "height": 251,
-      "color": "4"
     },
     {
       "id": "9c895187f7dd89c0",
@@ -404,6 +338,17 @@
       "color": "3"
     },
     {
+      "id": "a296b50c1490ef02",
+      "type": "text",
+      "text": "### Quantum electrodynamics\n- Quantum theory of matter-field interactions\n- Matter interacting with electromagnetic fields\n- Electron spin",
+      "styleAttributes": {},
+      "x": 120,
+      "y": -1741,
+      "width": 351,
+      "height": 251,
+      "color": "4"
+    },
+    {
       "id": "75d8acc8c4c0fef9",
       "type": "text",
       "text": "### Functional Analysis",
@@ -426,12 +371,45 @@
       "color": "3"
     },
     {
-      "id": "35ce7b455d3f94bb",
+      "id": "e46c1fccc65cebb6",
+      "type": "text",
+      "text": "### Born-Oppenheimer Approximation\n- Semiclassical theory of nuclei",
+      "styleAttributes": {},
+      "x": -570,
+      "y": -2175,
+      "width": 351,
+      "height": 158,
+      "color": "4"
+    },
+    {
+      "id": "d8d0c5f5f17d5133",
+      "type": "text",
+      "text": "### Functional Analysis",
+      "styleAttributes": {},
+      "x": -144,
+      "y": -2050,
+      "width": 351,
+      "height": 66,
+      "color": "3"
+    },
+    {
+      "id": "a5f64abc953e0417",
+      "type": "text",
+      "text": "### Linear Algebra",
+      "styleAttributes": {},
+      "x": 560,
+      "y": -2416,
+      "width": 351,
+      "height": 90,
+      "color": "3"
+    },
+    {
+      "id": "e9081273559f4fab",
       "type": "text",
       "text": "### Partial Differential Equations",
       "styleAttributes": {},
-      "x": 736,
-      "y": -1369,
+      "x": 1320,
+      "y": -2057,
       "width": 351,
       "height": 80,
       "color": "3"
@@ -446,6 +424,28 @@
       "width": 351,
       "height": 196,
       "color": "4"
+    },
+    {
+      "id": "69164c9bafdc53d6",
+      "type": "text",
+      "text": "### Special Relativity\n- Lorenz invariance\n",
+      "styleAttributes": {},
+      "x": 120,
+      "y": -1289,
+      "width": 351,
+      "height": 126,
+      "color": "4"
+    },
+    {
+      "id": "35ce7b455d3f94bb",
+      "type": "text",
+      "text": "### Partial Differential Equations",
+      "styleAttributes": {},
+      "x": 736,
+      "y": -1369,
+      "width": 351,
+      "height": 80,
+      "color": "3"
     },
     {
       "id": "679695f5848cb1b4",

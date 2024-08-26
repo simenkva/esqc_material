@@ -2,11 +2,11 @@
 
 # A mathematical roadmap for quantum chemistry
 
-We here ([[math.canvas|link to canvas]]) try to outline, graphically, a set of mathematical topics, and how they are relevant for the study of quantum chemistry. The subdivision of mathematical topics is largely artificial and biased as there there is no rigorous way to do such a thing. 
+We here (link to map: [[Mathematics Map]]) try to outline, graphically, a set of mathematical topics, and how they are relevant for the study of quantum chemistry. The subdivision of mathematical topics is largely artificial and biased as there there is no rigorous way to do such a thing. 
 
 Each box contains one field, or topic, and they are connected to other boxes with the arrow indicating the direction from "more general" to "less general and more special".
 
-In a second visualization ([[quantchem.canvas|link to canvas]]) we try to organize the various topics of theoretical and quantum chemistry in relation to the mathematical map.
+In a second visualization ([[Quantum Chemistry Map.canvas|link to canvas]]) we try to organize the various topics of theoretical and quantum chemistry in relation to the mathematical map.
 
 Of course, many more arrows could be drawn, and many more boxes could be added. In order to make the graph not too cluttered and confusing, we keep only main links.
 
