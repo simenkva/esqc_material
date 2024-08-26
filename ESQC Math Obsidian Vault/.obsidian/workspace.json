@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "72872e6d1a69aec3",
+    "type": "split",
+    "children": [
+      {
+        "id": "12bcab5439b90a23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a683ef8a488ddfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "math-map.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d7732528a70ed2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "161d2e72c6bf72e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07ac85328a21c383",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3be5bc9748563920",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f64e62ba3c95bfea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "126968a98f90c9b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e30d333956f790c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4083485287d5784",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Canvas/quantchem.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a387d7398aefa463",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Canvas/quantchem.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f239c999cdc71c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1bbc10cbf3832c31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Canvas/quantchem.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "floating": {
+    "id": "c5b5a7440ca49525",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4ff0ba37ad45ce90",
+        "type": "window",
+        "children": [
+          {
+            "id": "33b1e954b5d077ee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8c4a791eb8e2aed4",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Canvas/quantchem.canvas",
+                    "viewState": {
+                      "x": -64.5,
+                      "y": -1722.8527659574468,
+                      "zoom": -2.7349177655173476
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 306,
+        "y": 457,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "da8e495ada34fb70",
+        "type": "window",
+        "children": [
+          {
+            "id": "a0e6b7a83756fcd7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bdda7f88f981ae9a",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Canvas/quantchem.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 0
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 555,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "bdda7f88f981ae9a",
+  "lastOpenFiles": [
+    "Canvas/math.canvas",
+    "math-map.md",
+    "Canvas/quantchem.canvas",
+    "real-undervisning-2024.md",
+    "Welcome.md",
+    "Canvas"
+  ]
+}
