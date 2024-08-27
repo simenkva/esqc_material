@@ -1,5 +1,8 @@
 {
   "cssTheme": "",
   "accentColor": "",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "images",
+    "idea"
+  ]
 }

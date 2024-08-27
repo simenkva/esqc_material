@@ -4,7 +4,7 @@ You may choose files in the view on the right. In the Canvas folder, you find Ob
 
 To read the description of the Mathematics Map, please read [[Mathematics Map Details]], which is also available directly from the canvas.
 
-See  [[Recommended Reading]] for some general reading recommendations.
+See  [[Recommended General Mathematics Reading]] for some general reading recommendations.
 
 See [[Recommended YouTube channels]] for some recommended YouTube channels.
 

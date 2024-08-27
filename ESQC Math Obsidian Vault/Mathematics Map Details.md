@@ -120,17 +120,13 @@ Having a good command of linear algebra is _absolutely essential_ to any theoret
 
 Recommended reading:
 
-> [!BOOK] "Linear Algebra Done Right" by Sheldon Axler
-> A highly regarded undergraduate text in linear algebra, considered a very fine piece of didacic writing. Available for free on the Author's web page: https://linear.axler.net/
-  [[Pasted image 20240827063731.png]]
-  
-> [!note] Title
-> Contents
-
 > [!book]  "Linear Algebra Done Right" by Sheldon Axler
-> A highly regarded undergraduate text in linear algebra, considered a very fine piece of didacic writing. Available for free on the Author's web page: https://linear.axler.net/
-  [[Pasted image 20240827063731.png]]
+> ![[Linear Algebra Done Right.png|300]]
 > 
+> A highly regarded undergraduate text in linear algebra, considered a very fine piece of didacic writing. Open access. Available for free on the Author's web page: https://linear.axler.net/
+> 
+  
+
 
 
 

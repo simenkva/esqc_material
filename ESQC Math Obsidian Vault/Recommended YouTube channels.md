@@ -5,7 +5,7 @@ Link: https://www.youtube.com/@brightsideofmaths
 A brilliant series of mathematically rigorous lectures on various mathematical topics, made by [Dr. Julian P. Grossmann](https://jp-g.de) In a calm voice and using minimalistic digital white board style presentations, he presents advanced mathematical topics in a pedagogical and systematic manner.
 
 
-![[Screenshot 2024-08-26 at 21.59.40.png]]
+![[TouTube Bright Side of Mathematics.png]]
 
 Example playlists:
 - [How to learn maths](https://www.youtube.com/watch?v=Ob_S-w54f14&list=PLBh2i93oe2quqtKOibchMxIbuLY41RmJa)
@@ -27,7 +27,7 @@ He also has a second channel, MathMajor, with more "serious" mathematics lecture
 
 
 
-![[Screenshot 2024-08-26 at 22.08.52.png]]
+![[YouTube Michael Penn.png]]
 
 Example videos:
 - [Complex numbers 1](https://www.youtube.com/watch?v=OAahmA7lr8Q&list=PLVMgvCDIRy1wzJcFNGw7t4tehgzhFtBpm)
@@ -39,7 +39,7 @@ Example videos:
 This is a playlist of the eminent linear algebraist and teacher Gilbert Strang. From MIT Open Courseware.
 
 Link: https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D
-![[Screenshot 2024-08-26 at 22.31.50.png]]
+![[YouTube Gilbert Strang.png]]
 
 ## Richard Borcherds
 
@@ -48,7 +48,7 @@ A British mathematician and Fields medalist who has a great reputation as a teac
 Link: https://www.youtube.com/@richarde.borcherds7998
 
 
-![[Screenshot 2024-08-26 at 22.34.32.png]]
+![[YouTube Richard E Borcherds.png]]
 
 
 Example videos:
