@@ -170,7 +170,9 @@
     "iconEmojiStyle": "Native",
     "authorName": "",
     "exportRoot": "/",
-    "includePluginCSS": [],
+    "includePluginCSS": [
+      "advanced-canvas"
+    ],
     "includeSvelteCSS": true
   },
   "logLevel": "warning",
