@@ -75782,8 +75782,6 @@ var Index = class {
     this.rssURL = AssetHandler.generateSavePath("rss.xml", "other" /* Other */, new Path((_g = this.exportOptions.siteURL) != null ? _g : "")).absolute();
   }
   async finalize() {
-    if (!this.exportOptions.inlineOther)
-      await this.indexSelf();
     this.websiteData.shownInTree = this.attachmentsShownInTree.map((attachment) => attachment.targetPath.path);
     this.websiteData.allFiles = this.allFiles.map((file) => file.targetPath.path);
     for (const file of this.deletedFiles) {
@@ -75798,8 +75796,6 @@ var Index = class {
         webpage.backlinks.remove(file);
       }
     }
-    if (!this.exportOptions.inlineOther)
-      await this.indexSelf();
     console.log("Deleted: ", this.deletedFiles);
     console.log("New: ", this.newFiles);
     console.log("Updated: ", this.updatedFiles);
@@ -76012,6 +76008,8 @@ var Index = class {
     if (this.oldWebsiteData) {
       const webpages = Object.entries(this.oldWebsiteData.webpages);
       for (const [path, data] of webpages) {
+        if (this.deletedFiles.includes(path))
+          continue;
         const filePath = new Path(path, this.website.destination.path);
         const fileData = await filePath.readAsBuffer();
         if (fileData) {
@@ -76068,7 +76066,7 @@ ${document2.documentElement.outerHTML}`));
       webpageInfo.author = webpage.author;
       webpageInfo.coverImageURL = "";
       webpageInfo.fullURL = webpage.fullURL;
-      webpageInfo.pathToRoot = webpage.pathToRoot.path;
+      webpageInfo.pathToRoot = webpage.pathToRoot.path == "" ? "." : webpage.pathToRoot.path;
       webpageInfo.attachments = webpage.attachments.map((download) => download.targetPath.path);
       webpageInfo.createdTime = webpage.source.stat.ctime;
       webpageInfo.modifiedTime = webpage.source.stat.mtime;
@@ -76191,12 +76189,6 @@ ${document2.documentElement.outerHTML}`));
     const indexDataString = JSON.stringify(this.minisearch);
     const indexDataPath = AssetHandler.generateSavePath("search-index.json", "other" /* Other */, this.website.destination);
     return new Attachment(indexDataString, indexDataPath, null, this.exportOptions);
-  }
-  async indexSelf() {
-    const websiteDataAttachment = this.websiteDataAttachment();
-    const indexDataAttachment = this.indexDataAttachment();
-    await this.addFiles([websiteDataAttachment, indexDataAttachment]);
-    websiteDataAttachment.data = JSON.stringify(this.websiteData);
   }
 };
 
@@ -77262,6 +77254,8 @@ var HTMLExporter = class {
         } else {
           await Utils.downloadAttachments(website.index.newFiles.filter((f) => !(f instanceof Webpage)));
           await Utils.downloadAttachments(website.index.updatedFiles.filter((f) => !(f instanceof Webpage)));
+          await Utils.downloadAttachments([website.index.websiteDataAttachment()]);
+          await Utils.downloadAttachments([website.index.indexDataAttachment()]);
         }
       }
     } catch (e) {
