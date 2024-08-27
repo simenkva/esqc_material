@@ -8,7 +8,9 @@
     "displayProgress": true,
     "inlineHTML": false,
     "exportPath": "/Users/simenkva/Code/esqc_material/docs",
-    "filesToExport": [],
+    "filesToExport": [
+      "all"
+    ],
     "addBodyClasses": true,
     "addMathjaxStyles": true,
     "addHeadTag": true,

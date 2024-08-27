@@ -11,14 +11,11 @@
             "id": "2a683ef8a488ddfa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/Mathematics Map.canvas",
-                "viewState": {
-                  "x": -1164.5,
-                  "y": -1223.4279792243763,
-                  "zoom": -2.1568555272715146
-                }
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas/Mathematics Map.canvas",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas/Mathematics Map.canvas",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas/Mathematics Map.canvas"
+                "file": "index.md"
               }
             }
           }
@@ -157,9 +154,10 @@
     "Canvas/Quantum Chemistry Map.canvas",
     "Canvas/Mathematics Map.canvas",
     "Mathematics Map Details.md",
-    "Start Here.md",
+    "index.md",
     "Recommended General Mathematics Reading.md",
     "Recommended YouTube channels.md",
+    "index.html",
     "Canvas",
     "Attachments/YouTube Richard E Borcherds.png",
     "Attachments/YouTube Michael Penn.png",
@@ -172,7 +170,6 @@
     "Attachments/Gustafson and Sigal.png",
     "Attachments/Butkov.png",
     "Attachments",
-    "index.html",
     "Functional Analysis.md",
     "Canvas/math.canvas",
     "math-map.md",
