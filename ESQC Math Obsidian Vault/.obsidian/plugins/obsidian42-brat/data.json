@@ -2,7 +2,12 @@
   "pluginList": [
     "KosmosisDire/obsidian-webpage-export"
   ],
-  "pluginSubListFrozenVersion": [],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "KosmosisDire/obsidian-webpage-export",
+      "version": "1.9.0-1b"
+    }
+  ],
   "themesList": [],
   "updateAtStartup": true,
   "updateThemesAtStartup": true,
