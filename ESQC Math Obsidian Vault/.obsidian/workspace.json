@@ -11,15 +11,8 @@
             "id": "2a683ef8a488ddfa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,10 +146,10 @@
     "Canvas/Quantum Chemistry Map.canvas",
     "Canvas/Mathematics Map.canvas",
     "Mathematics Map Details.md",
-    "index.md",
     "Recommended General Mathematics Reading.md",
     "Recommended YouTube channels.md",
     "Untitled.canvas",
+    "index.md",
     "index.html",
     "Canvas",
     "Attachments/YouTube Richard E Borcherds.png",
