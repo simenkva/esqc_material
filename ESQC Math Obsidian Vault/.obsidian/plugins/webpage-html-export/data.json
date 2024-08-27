@@ -169,7 +169,7 @@
     "customHeadPath": "",
     "iconEmojiStyle": "Native",
     "authorName": "",
-    "exportRoot": "",
+    "exportRoot": "/",
     "includePluginCSS": [],
     "includeSvelteCSS": true
   },
@@ -177,7 +177,7 @@
   "titleProperty": "title",
   "onlyExportModified": true,
   "deleteOldFiles": true,
-  "exportPreset": "documents",
+  "exportPreset": "online",
   "openAfterExport": false,
   "filePickerBlacklist": [
     "(^|\\/)node_modules\\/",
