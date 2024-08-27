@@ -1,0 +1,23 @@
+{
+  "callouts": {
+    "custom": [
+      "source",
+      "book"
+    ],
+    "settings": {
+      "book": [
+        {
+          "changes": {
+            "icon": "lucide-book-text",
+            "color": "68, 207, 110"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

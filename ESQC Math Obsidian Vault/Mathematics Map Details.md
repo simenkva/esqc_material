@@ -2,7 +2,7 @@
 
 # A mathematical roadmap for quantum chemistry
 
-We here (link to map: [[Mathematics Map]]) try to outline, graphically, a set of mathematical topics, and how they are relevant for the study of quantum chemistry. The subdivision of mathematical topics is largely artificial and biased as there there is no rigorous way to do such a thing. 
+We here (link to map: [[Mathematics Map.canvas|Mathematics Map]]) try to outline, graphically, a set of mathematical topics, and how they are relevant for the study of quantum chemistry. The subdivision of mathematical topics is largely artificial and biased as there there is no rigorous way to do such a thing. 
 
 Each box contains one field, or topic, and they are connected to other boxes with the arrow indicating the direction from "more general" to "less general and more special".
 
@@ -11,6 +11,7 @@ In a second visualization ([[Quantum Chemistry Map.canvas|link to canvas]]) we t
 Of course, many more arrows could be drawn, and many more boxes could be added. In order to make the graph not too cluttered and confusing, we keep only main links.
 
 **NOTE:** Topics marked with a  $\heartsuit$ are considered of prime importance to any quantum chemist, regardless of their specialization.
+
 
 
 ## Logic and Set Theory
@@ -25,7 +26,8 @@ Most mathematicians are aware of formal set theory, but the "version" used in mo
 Although formal set theory is unlikely to be applied in the study of quantum chemistry, the basic notation is widely-used and an important language tool when specifying computational methods and their implementation. 
 
 Recommended reading:
-- ... 
+- "Set Theory for the Working Mathematician" by - Krzysztof Ciesielski, Cambridge University Press (1997) https://doi.org/10.1017/CBO9781139173131
+- 
 
 ## Category Theory
 
@@ -112,12 +114,25 @@ Recommended reading:
 
 ## $\heartsuit$ Linear Algebra
 
-In linear algebra, one studies linear vector spaces and linear functions between such spaces. Typical, and indeed archetypal, examples are $\RR^n$ and $\CC^n$, and $n\times m$ matrices with complex or real entries. It is no exaggeration that linear algebra is perhaps the most important tool in science, being at the heart of everything from quantum mechanics, data analysis, and numerical methods for the solution of partial differential equations.
+In linear algebra, one studies linear vector spaces and linear functions between such spaces. Typical, and indeed archetypal, examples are $\mathbb{R}^n$ and $\mathbb{C}^n$, and $n\times m$ matrices with complex or real entries. It is no exaggeration that linear algebra is perhaps the most important tool in science, being at the heart of everything from quantum mechanics, data analysis, and numerical methods for the solution of partial differential equations.
 
 Having a good command of linear algebra is _absolutely essential_ to any theoretical chemist, from the LCAO approach to molecular orbitals, via practical realizations of Kohn--Sham density functional theory, to the numerical solution of, say, the coupled-cluster method.
 
 Recommended reading:
-- ...
+
+> [!BOOK] "Linear Algebra Done Right" by Sheldon Axler
+> A highly regarded undergraduate text in linear algebra, considered a very fine piece of didacic writing. Available for free on the Author's web page: https://linear.axler.net/
+  [[Pasted image 20240827063731.png]]
+  
+> [!note] Title
+> Contents
+
+> [!book]  "Linear Algebra Done Right" by Sheldon Axler
+> A highly regarded undergraduate text in linear algebra, considered a very fine piece of didacic writing. Available for free on the Author's web page: https://linear.axler.net/
+  [[Pasted image 20240827063731.png]]
+> 
+
+
 
 ## Multilinear algebra
 

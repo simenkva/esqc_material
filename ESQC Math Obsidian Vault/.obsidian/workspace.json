@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math-map.md",
-                "mode": "source",
+                "file": "Mathematics Map Details.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas/quantchem.canvas",
+                "file": "Mathematics Map Details.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas/quantchem.canvas",
+                "file": "Mathematics Map Details.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas/quantchem.canvas"
+                "file": "Mathematics Map Details.md"
               }
             }
           }
@@ -149,82 +149,25 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "c5b5a7440ca49525",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4ff0ba37ad45ce90",
-        "type": "window",
-        "children": [
-          {
-            "id": "33b1e954b5d077ee",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8c4a791eb8e2aed4",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Canvas/quantchem.canvas",
-                    "viewState": {
-                      "x": -64.5,
-                      "y": -1722.8527659574468,
-                      "zoom": -2.7349177655173476
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 306,
-        "y": 457,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "da8e495ada34fb70",
-        "type": "window",
-        "children": [
-          {
-            "id": "a0e6b7a83756fcd7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bdda7f88f981ae9a",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Canvas/quantchem.canvas",
-                    "viewState": {
-                      "x": 0,
-                      "y": 0,
-                      "zoom": 0
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 555,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "bdda7f88f981ae9a",
+  "active": "2a683ef8a488ddfa",
   "lastOpenFiles": [
+    "Canvas/Mathematics Map.canvas",
+    "Canvas/Quantum Chemistry Map.canvas",
+    "Recommended Reading.md",
+    "Recommended YouTube channels.md",
+    "Start Here.md",
+    "Mathematics Map Details.md",
+    "Pasted image 20240827063731.png",
+    "Screenshot 2024-08-27 at 06.33.25.png",
+    "Screenshot 2024-08-26 at 22.34.32.png",
+    "Screenshot 2024-08-26 at 22.31.50.png",
+    "Screenshot 2024-08-26 at 22.08.52.png",
+    "Screenshot 2024-08-26 at 21.59.40.png",
+    "Pasted image 20240826213929.png",
+    "Pasted image 20240826213724.png",
+    "Pasted image 20240826210939.png",
+    "Pasted image 20240826195504.png",
+    "Functional Analysis.md",
     "Canvas/math.canvas",
     "math-map.md",
     "Canvas/quantchem.canvas",
