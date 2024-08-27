@@ -11,12 +11,8 @@
             "id": "2a683ef8a488ddfa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics Map Details.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics Map Details.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics Map Details.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathematics Map Details.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,24 +149,24 @@
     "Start Here.md",
     "Recommended General Mathematics Reading.md",
     "Recommended YouTube channels.md",
-    "Attachments/TouTube Bright Side of Mathematics.png",
-    "Attachments/Butkov.png",
-    "Attachments/Set Theory for the Working Mathematician.png",
-    "Attachments",
+    "Canvas",
     "Attachments/YouTube Richard E Borcherds.png",
-    "Attachments/YouTube Gilbert Strang.png",
     "Attachments/YouTube Michael Penn.png",
-    "Attachments/Blanchard and Bruening.png",
-    "Attachments/Gustafson and Sigal.png",
-    "Attachments/Arfken.png",
+    "Attachments/YouTube Gilbert Strang.png",
+    "Attachments/TouTube Bright Side of Mathematics.png",
     "Attachments/Teschl.png",
+    "Attachments/Set Theory for the Working Mathematician.png",
+    "Attachments/Mathematical Physical Chemistry.png",
+    "Attachments/Linear Algebra Done Right.png",
+    "Attachments/Gustafson and Sigal.png",
+    "Attachments/Butkov.png",
+    "Attachments",
     "index.html",
     "Functional Analysis.md",
     "Canvas/math.canvas",
     "math-map.md",
     "Canvas/quantchem.canvas",
     "real-undervisning-2024.md",
-    "Welcome.md",
-    "Canvas"
+    "Welcome.md"
   ]
 }
