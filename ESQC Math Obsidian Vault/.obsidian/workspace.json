@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics Map Details.md",
+                "file": "Mathematics Map Text.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics Map Details.md",
+                "file": "Mathematics Map Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics Map Details.md",
+                "file": "Mathematics Map Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics Map Details.md"
+                "file": "Mathematics Map Text.md"
               }
             }
           }
@@ -151,13 +151,17 @@
   },
   "active": "2a683ef8a488ddfa",
   "lastOpenFiles": [
+    "Attachments/Munkres.png",
+    "Attachments/Strang.png",
+    "Attachments/Bartle.png",
+    "Attachments/Greub.png",
+    "Mathematics Map Text.md",
+    "Recommended General Mathematics Reading.md",
+    "index.md",
     "Canvas/Quantum Chemistry Map.canvas",
     "Canvas/Mathematics Map.canvas",
-    "Mathematics Map Details.md",
-    "Recommended General Mathematics Reading.md",
     "Recommended YouTube channels.md",
     "Untitled.canvas",
-    "index.md",
     "index.html",
     "Canvas",
     "Attachments/YouTube Richard E Borcherds.png",
@@ -166,10 +170,6 @@
     "Attachments/TouTube Bright Side of Mathematics.png",
     "Attachments/Teschl.png",
     "Attachments/Set Theory for the Working Mathematician.png",
-    "Attachments/Mathematical Physical Chemistry.png",
-    "Attachments/Linear Algebra Done Right.png",
-    "Attachments/Gustafson and Sigal.png",
-    "Attachments/Butkov.png",
     "Attachments",
     "Functional Analysis.md",
     "Canvas/math.canvas",

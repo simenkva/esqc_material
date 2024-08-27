@@ -2,7 +2,7 @@ This is the Obsidian vault with material created by Simen Kvaal for the Mathemat
 
 You may choose files in the view on the right. In the Canvas folder, you find Obsidian Canvases, that graphical visualizations. Select for example [[Mathematics Map.canvas|Mathematics Map]] to go to the map of mathematics for quantum chemistry, and select [[Quantum Chemistry Map.canvas|Quantum Chemistry Map]] to look at how mathematical topics relate to various quantum chemistry topics.
 
-To read the description of the Mathematics Map, please read [[Mathematics Map Details]], which is also available directly from the canvas.
+To read the description of the Mathematics Map, please read [[Mathematics Map Text]], which is also available directly from the canvas.
 
 See  [[Recommended General Mathematics Reading]] for some general reading recommendations.
 
