@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "id": "79821571f4a840f1",
+      "type": "text",
+      "text": "Just a test",
+      "styleAttributes": {},
+      "x": -130,
+      "y": -30,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}
