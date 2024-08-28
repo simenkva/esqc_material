@@ -20,7 +20,7 @@
   "logLevel": "warning",
   "minifyHTML": true,
   "makeNamesWebStyle": false,
-  "onlyExportModified": true,
+  "onlyExportModified": false,
   "deleteOldFiles": true,
   "addThemeToggle": true,
   "addOutline": true,
