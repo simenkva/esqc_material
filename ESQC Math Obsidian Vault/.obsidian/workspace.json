@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "72872e6d1a69aec3",
+    "id": "b940e097ed214661",
     "type": "split",
     "children": [
       {
-        "id": "12bcab5439b90a23",
+        "id": "036fd8354662b441",
         "type": "tabs",
         "children": [
           {
-            "id": "2a683ef8a488ddfa",
+            "id": "f52567466027861c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0d7732528a70ed2c",
+    "id": "43557e13b0f64402",
     "type": "split",
     "children": [
       {
-        "id": "161d2e72c6bf72e8",
+        "id": "a272e922b36386f7",
         "type": "tabs",
         "children": [
           {
-            "id": "07ac85328a21c383",
+            "id": "19460567d9cd5dc5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "3be5bc9748563920",
+            "id": "0e0ebda399804621",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "f64e62ba3c95bfea",
+            "id": "602413aa83034e9f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "126968a98f90c9b0",
+    "id": "75fe9ddd7e370bd2",
     "type": "split",
     "children": [
       {
-        "id": "e30d333956f790c8",
+        "id": "5471ac8fc76390e1",
         "type": "tabs",
         "children": [
           {
-            "id": "c4083485287d5784",
+            "id": "4a3076ecbb66ceac",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "a387d7398aefa463",
+            "id": "12589e7d28cb2c44",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4f239c999cdc71c4",
+            "id": "fa0137ec13d91a7f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "1bbc10cbf3832c31",
+            "id": "550780eaa1d078d0",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,44 +130,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false,
+      "webpage-html-export:Export Vault to HTML": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "templater-obsidian:Templater": false,
-      "obsidian42-brat:BRAT": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "2a683ef8a488ddfa",
+  "active": "f52567466027861c",
   "lastOpenFiles": [
-    "Canvas/Mathematics Map.canvas",
     "Recommended YouTube channels.md",
     "Recommended General Mathematics Reading.md",
     "Mathematics Map Text.md",
     "Canvas/Quantum Chemistry Map.canvas",
-    "index.md",
-    "Attachments/Munkres.png",
-    "Attachments/Strang.png",
-    "Attachments/Bartle.png",
-    "Attachments/Greub.png",
-    "Untitled.canvas",
-    "index.html",
-    "Canvas",
-    "Attachments/YouTube Richard E Borcherds.png",
-    "Attachments/YouTube Michael Penn.png",
-    "Attachments/YouTube Gilbert Strang.png",
-    "Attachments/TouTube Bright Side of Mathematics.png",
-    "Attachments/Teschl.png",
-    "Attachments/Set Theory for the Working Mathematician.png",
-    "Attachments",
-    "Functional Analysis.md",
-    "Canvas/math.canvas",
-    "math-map.md",
-    "Canvas/quantchem.canvas",
-    "real-undervisning-2024.md",
-    "Welcome.md"
+    "Canvas/Mathematics Map.canvas",
+    "index.md"
   ]
 }

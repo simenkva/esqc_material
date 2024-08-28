@@ -11,11 +11,14 @@
             "id": "2a683ef8a488ddfa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Mathematics Map Text.md",
-                "mode": "source",
-                "source": false
+                "file": "Canvas/Mathematics Map.canvas",
+                "viewState": {
+                  "x": -731.6686999999998,
+                  "y": -823.8483382352945,
+                  "zoom": -2.7748955579685837
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics Map Text.md",
+                "file": "Canvas/Mathematics Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics Map Text.md",
+                "file": "Canvas/Mathematics Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics Map Text.md"
+                "file": "Canvas/Mathematics Map.canvas"
               }
             }
           }
@@ -151,11 +154,11 @@
   },
   "active": "2a683ef8a488ddfa",
   "lastOpenFiles": [
+    "Mathematics Map Text.md",
     "Attachments/Munkres.png",
     "Attachments/Strang.png",
     "Attachments/Bartle.png",
     "Attachments/Greub.png",
-    "Mathematics Map Text.md",
     "Recommended General Mathematics Reading.md",
     "index.md",
     "Canvas/Quantum Chemistry Map.canvas",
