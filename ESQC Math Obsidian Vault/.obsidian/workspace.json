@@ -15,9 +15,9 @@
               "state": {
                 "file": "Canvas/Mathematics Map.canvas",
                 "viewState": {
-                  "x": -2279.299999999993,
-                  "y": -368.8600000000017,
-                  "zoom": 0
+                  "x": -1235.1587378640777,
+                  "y": -323.65205825242697,
+                  "zoom": -1.864630925590889
                 }
               }
             }
@@ -156,9 +156,9 @@
   "lastOpenFiles": [
     "Recommended YouTube channels.md",
     "Recommended General Mathematics Reading.md",
-    "Mathematics Map Text.md",
     "Canvas/Quantum Chemistry Map.canvas",
-    "index.md",
-    "Canvas/Mathematics Map.canvas"
+    "Mathematics Map Text.md",
+    "Canvas/Mathematics Map.canvas",
+    "index.md"
   ]
 }

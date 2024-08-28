@@ -40,6 +40,10 @@ Although direct use of category theory in quantum chemistry is rare, it is menti
 Recommended reading:
 - ...
 
+## Discrete Mathematics
+
+Lorem ipsum ...
+
 ## Abstract Algebra
 
 In abstract algebra, sets are given *mathematical structure* in the form of binary operations and various axioms that define what it is to be, e.g., a *group*. Thus, a group is defined in terms of its essential features, and not its concrete realizations. For example, the group $\mathbb{Z}_4 = \{0, 1, 2, 3\}$ with group operation of addition modulo 4, compared to the matrix group consisting of powers of the matrix $[[0, 1], [-1, 0]]$.

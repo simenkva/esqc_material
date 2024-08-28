@@ -3,7 +3,7 @@
     {
       "id": "3da9e6d4d058fc9d",
       "type": "text",
-      "text": "### Number systems\n- Integers\n- Real and complex numbers",
+      "text": "### [[Mathematics Map Text#Number systems|Number Systems]]\n- Integers\n- Real and complex numbers",
       "styleAttributes": {},
       "x": -1500,
       "y": -330,
@@ -22,20 +22,9 @@
       "height": 738
     },
     {
-      "id": "b5faec2ddcbbed25",
-      "type": "text",
-      "text": "### Green's Functions",
-      "styleAttributes": {},
-      "x": -678,
-      "y": -2351,
-      "width": 430,
-      "height": 107,
-      "color": "4"
-    },
-    {
       "id": "f98be4aaf27ccb77",
       "type": "text",
-      "text": "### $\\heartsuit$ Linear algebra\n- Vector spaces, matrices, ...\n- Norm, inner product ...",
+      "text": "### $\\heartsuit$ [[Mathematics Map Text#$ heartsuit$ Linear Algebra|Linear algebra]]\n- Vector spaces, matrices, ...\n- Norm, inner product ...",
       "styleAttributes": {
         "shape": null
       },
@@ -48,7 +37,7 @@
     {
       "id": "42d9da682c122038",
       "type": "text",
-      "text": "### Discrete mathematics\n- Combinatorics\n- Graph theory\n- Number theory\n- Algorithms and complexity",
+      "text": "### [[Mathematics Map Text#Discrete Mathematics|Discrete mathematics]]\n- Combinatorics\n- Graph theory\n- Number theory\n- Algorithms and complexity",
       "styleAttributes": {},
       "x": -2000,
       "y": -64,
@@ -59,7 +48,7 @@
     {
       "id": "230433998a4c183c",
       "type": "text",
-      "text": "###  Logic and Set Theory\n- Foundations of mathematics\n- Axioms, theorems, proofs\n- Formal set theory",
+      "text": "###  [[Mathematics Map Text#Logic and Set Theory|Logic and Set Theory]]\n- Foundations of mathematics\n- Metamathematics\n- Axioms, theorems, proofs\n- Formal set theory",
       "styleAttributes": {},
       "x": -2000,
       "y": -362,
@@ -70,7 +59,7 @@
     {
       "id": "9f6169c85d3c439d",
       "type": "text",
-      "text": "### Abstract Algebra\n- Axiomatic algebraic structures",
+      "text": "### [[Mathematics Map Text#Abstract Algebra|Abstract Algebra]]\n- Axiomatic algebraic structures",
       "styleAttributes": {},
       "x": -2000,
       "y": -608,
@@ -81,7 +70,7 @@
     {
       "id": "fc67d1bcdfb076db",
       "type": "text",
-      "text": "### Operator Algebra\n- C*-algebras\n- von Neumann algebras\n- Second quantization",
+      "text": "### [[Mathematics Map Text#Operator algebra|Operator Algebra]]\n- C*-algebras\n- von Neumann algebras\n- Second quantization",
       "styleAttributes": {},
       "x": -2000,
       "y": -896,
@@ -92,7 +81,7 @@
     {
       "id": "1db8fb1ab9729cf8",
       "type": "text",
-      "text": "### Functional analysis\n- Infinite dimensions\n- Topological vector spaces\n- Banach spaces\n- Hilbert spaces",
+      "text": "### [[Mathematics Map Text#Functional Analysis|Functional analysis]]\n- Infinite dimensions\n- Topological vector spaces\n- Banach spaces\n- Hilbert spaces",
       "styleAttributes": {},
       "x": -1510,
       "y": -907,
@@ -103,7 +92,7 @@
     {
       "id": "26e102e26058fb30",
       "type": "text",
-      "text": "### Convex analysis\n- Convex sets and functions\n- Convex optimization problems\n- Legendre transformations",
+      "text": "### [[Mathematics Map Text#Convex Analysis|Convex analysis]]\n- Convex sets and functions\n- Convex optimization problems\n- Legendre transformations",
       "styleAttributes": {},
       "x": -1510,
       "y": -1130,
@@ -114,7 +103,7 @@
     {
       "id": "1bb7562dab7c829b",
       "type": "text",
-      "text": "### Ordinary differential equations\n",
+      "text": "### [[Mathematics Map Text#$ heartsuit$ Ordinary differential equations|Ordinary differential equations]]\n",
       "styleAttributes": {},
       "x": -330,
       "y": -989,
@@ -125,7 +114,7 @@
     {
       "id": "8af5a1140aeb61d5",
       "type": "text",
-      "text": "### Partial differential equations\n- Existence and uniqueness\n- Variational formulations",
+      "text": "### [[Mathematics Map Text#Partial differential equations|Partial Differential Equations]]\n- Existence and uniqueness\n- Variational formulations",
       "styleAttributes": {},
       "x": -330,
       "y": -789,
@@ -136,7 +125,7 @@
     {
       "id": "341ac5dca559916b",
       "type": "text",
-      "text": "### Measure and integration\n- Borel measure\n- Lebesgue integral\n- $L^p$-spaces",
+      "text": "### [[Mathematics Map Text#Measure and integration|Measure and Integration]]\n- Borel measure\n- Lebesgue integral\n- $L^p$-spaces",
       "styleAttributes": {},
       "x": -1500,
       "y": -46,
@@ -147,7 +136,7 @@
     {
       "id": "0c7e797ed4d3be03",
       "type": "text",
-      "text": "### Differential geometry\n- Manifolds\n- Tensors\n- Exterior calculus",
+      "text": "### [[Mathematics Map Text#Differential geometry|Differential Geometry]]\n- Manifolds\n- Tensors\n- Exterior calculus",
       "styleAttributes": {},
       "x": -949,
       "y": -208,
@@ -158,7 +147,7 @@
     {
       "id": "b5827cc25d7fa73b",
       "type": "text",
-      "text": "### Distribution theory\n- Generalized functions\n- Dirac delta\n- Fourier transforms",
+      "text": "### [[Mathematics Map Text#Distribution theory| Distribution Theory]]\n- Generalized functions\n- Dirac delta\n- Fourier transforms",
       "styleAttributes": {},
       "x": -949,
       "y": -712,
@@ -169,7 +158,7 @@
     {
       "id": "83b409a78f3ae4a3",
       "type": "text",
-      "text": "### Category theory\n- Abstract theory of mathematical structure",
+      "text": "### [[Mathematics Map Text#Category Theory|Category theory]]\n- Abstract mathematical structures and their relationships",
       "styleAttributes": {},
       "x": -2435,
       "y": -344,
@@ -191,7 +180,7 @@
     {
       "id": "c8f75bb94331221f",
       "type": "text",
-      "text": "### Topology\n- Open and closed sets\n- Continuity and convergence\n- Metric spaces",
+      "text": "### [[Mathematics Map Text#Topology|Topology]]\n- Open and closed sets\n- Continuity and convergence\n- Metric spaces",
       "styleAttributes": {},
       "x": -1490,
       "y": 290,
@@ -202,7 +191,7 @@
     {
       "id": "85a4cd1855235b52",
       "type": "text",
-      "text": "### $\\heartsuit$ Calculus of variations\n- Calculus in infinite dimensions\n\n\n",
+      "text": "### $\\heartsuit$ [[Mathematics Map Text#Calculus of Variations|Calculus of Variations]]\n- Calculus in infinite dimensions\n\n\n",
       "styleAttributes": {},
       "x": -949,
       "y": -1150,
@@ -213,7 +202,7 @@
     {
       "id": "6704537f47e26d42",
       "type": "text",
-      "text": "### Multilinear algebra\n- Tensors",
+      "text": "### [[Mathematics Map Text#Multilinear algebra|Multilinear Algebra]]\n- Tensors",
       "styleAttributes": {},
       "x": -949,
       "y": -456,
@@ -224,7 +213,7 @@
     {
       "id": "fb17b4a5d10a95bd",
       "type": "text",
-      "text": "### Numerical analysis\n- Finite precision arithmetic\n- Approximate solution of ODEs and PDEs\n- Numerical integration",
+      "text": "### [[Mathematics Map Text#Numerical analysis|Numerical analysis]]\n- Finite precision arithmetic\n- Approximate solution of ODEs and PDEs\n- Numerical integration",
       "styleAttributes": {},
       "x": -330,
       "y": -166,
@@ -235,7 +224,7 @@
     {
       "id": "a4d4bfbb2fa0cc2b",
       "type": "text",
-      "text": "### $\\heartsuit$ Optimization\n- Steepest descent\n- Newton and quasi-Newton methods\n- Linear programming\n- ...",
+      "text": "### $\\heartsuit$ [[Mathematics Map Text#Optimization and root finding|Optimization and Root Finding]]\n- Steepest descent\n- Newton and quasi-Newton methods\n- Linear programming\n- ...",
       "styleAttributes": {},
       "x": 120,
       "y": -166,
@@ -246,7 +235,7 @@
     {
       "id": "da16bbadd453714e",
       "type": "text",
-      "text": "### Complex analysis\n- The theory of complex functions ",
+      "text": "### [[Mathematics Map Text#Complex analysis|Complex Analysis]]\n- The theory of complex functions ",
       "styleAttributes": {},
       "x": -920,
       "y": 600,
@@ -257,7 +246,7 @@
     {
       "id": "fa3666befbe7e033",
       "type": "text",
-      "text": "### $\\heartsuit$ Calculus\n- The theory of functions\n- Differentiation and integration\n- Series expansions",
+      "text": "### $\\heartsuit$ [[Mathematics Map Text#$ heartsuit$ Calculus|Calculus]]\n- The theory of functions\n- Differentiation and integration\n- Series expansions",
       "styleAttributes": {},
       "x": -949,
       "y": 290,
