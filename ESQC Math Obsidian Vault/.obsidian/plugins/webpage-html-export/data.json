@@ -2,7 +2,9 @@
   "settingsVersion": "1.9.0-2b",
   "makeOfflineCompatible": false,
   "inlineAssets": false,
-  "includePluginCSS": [],
+  "includePluginCSS": [
+    "advanced-canvas"
+  ],
   "includeSvelteCSS": true,
   "titleProperty": "title",
   "customHeadContentPath": "",
@@ -24,11 +26,11 @@
   "addOutline": true,
   "addFileNav": true,
   "addSearchBar": true,
-  "addGraphView": true,
+  "addGraphView": false,
   "addTitle": true,
   "addRSSFeed": true,
-  "siteURL": "",
-  "authorName": "",
+  "siteURL": "https://simenkva.github.io/esqc_material/",
+  "authorName": "Simen Kvaal",
   "vaultTitle": "ESQC Math Obsidian Vault",
   "exportPreset": "website",
   "openAfterExport": false,
@@ -46,7 +48,9 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "/Users/simenkva/Code/esqc_material/docs",
   "filesToExport": [
-    []
+    [
+      "all"
+    ]
   ],
   "filePickerBlacklist": [
     "(^|\\/)node_modules\\/",

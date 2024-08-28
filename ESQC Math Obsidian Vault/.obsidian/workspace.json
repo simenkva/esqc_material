@@ -11,8 +11,15 @@
             "id": "f52567466027861c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Canvas/Mathematics Map.canvas",
+                "viewState": {
+                  "x": -1164.5,
+                  "y": -887.5,
+                  "zoom": -2.1568555272715146
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Canvas/Mathematics Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Canvas/Mathematics Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Canvas/Mathematics Map.canvas"
+              }
             }
           }
         ]
