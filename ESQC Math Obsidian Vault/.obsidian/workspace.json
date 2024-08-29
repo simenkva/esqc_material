@@ -13,16 +13,32 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Canvas/Mathematics Map.canvas",
+                "file": "Canvas/Mathematics.canvas",
                 "viewState": {
-                  "x": -1235.1587378640777,
-                  "y": -323.65205825242697,
-                  "zoom": -1.864630925590889
+                  "x": -1577.548102362207,
+                  "y": 82.66029921259842,
+                  "zoom": -0.5624467660019417
+                }
+              }
+            }
+          },
+          {
+            "id": "8cbe611d0efdbeff",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas/Quantum Chemistry.canvas",
+                "viewState": {
+                  "x": -128.946711409396,
+                  "y": -1537.365906040268,
+                  "zoom": -1.6553005974539796
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas/Mathematics Map.canvas",
+                "file": "Canvas/Quantum Chemistry.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas/Mathematics Map.canvas",
+                "file": "Canvas/Quantum Chemistry.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas/Mathematics Map.canvas"
+                "file": "Canvas/Quantum Chemistry.canvas"
               }
             }
           }
@@ -152,13 +168,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f52567466027861c",
+  "active": "8cbe611d0efdbeff",
   "lastOpenFiles": [
-    "Recommended YouTube channels.md",
     "Recommended General Mathematics Reading.md",
-    "Canvas/Quantum Chemistry Map.canvas",
-    "Mathematics Map Text.md",
-    "Canvas/Mathematics Map.canvas",
-    "index.md"
+    "index.md",
+    "Canvas/Quantum Chemistry.canvas",
+    "Canvas/Mathematics.canvas",
+    "Mathematics Roadmap.md",
+    "Recommended YouTube channels.md",
+    "Attachments/Screenshot 2024-08-29 at 10.24.34.png",
+    "Attachments/Screenshot 2024-08-29 at 10.15.24.png",
+    "Attachments/cover.jpg",
+    "Attachments/Pasted image 20240829101030.png",
+    "Attachments/Pasted image 20240829100909.png",
+    "Attachments/Pasted image 20240829100530.png",
+    "Attachments/Pasted image 20240829100049.png",
+    "Attachments/Pasted image 20240829095847.png",
+    "Attachments/Pasted image 20240829095053.png",
+    "Attachments/Screenshot 2024-08-29 at 09.49.31.png"
   ]
 }
