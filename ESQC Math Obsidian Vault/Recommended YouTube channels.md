@@ -55,6 +55,19 @@ Example videos:
 - [Intro to category theory](https://www.youtube.com/watch?v=JOp7mH72Jlg&list=PL8yHsr3EFj51F9XZ_Ka4bLnQoxTdMx0AL)
 - [Group theory and modules](https://www.youtube.com/watch?v=4WmIDodIgac&list=PL8yHsr3EFj52XDLrmvrFDgwcf6XOm2TEE)
 
+
+## Frederic Schuller
+
+A YouTube channel sporting highly engaging and information rich lectures by the mathematical physicst Frederic Sculler at the University of Twente in the Netherlands.
+
+
+
+![[Screenshot 2024-08-29 at 10.24.34.png]]
+Video examples:
+- Logic of propositions and predicates, https://www.youtube.com/watch?v=V49i_LM8B0E&list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic&index=1
+- Banach spaces https://www.youtube.com/watch?v=Px1Zd--fgic&list=PLPH7f_7ZlzxQVx5jRjbfRGEzWY_upS5K6&index=2
+- 
+
 ## Graduate Mathematics
 
 Link: http://www.youtube.com/@GraduateMathematics
