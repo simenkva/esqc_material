@@ -46,7 +46,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/Users/simenkva/Code/esqc_material/docs",
+  "exportPath": "/Users/simenkva/Code/temp/esqc_material/docs",
   "filesToExport": [
     [
       "all"
