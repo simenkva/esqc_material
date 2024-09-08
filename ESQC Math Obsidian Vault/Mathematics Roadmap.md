@@ -86,8 +86,6 @@ Important algebraic constructions include groups, semigroups, rings, modules, ve
 
 Abstract algebra is important for quantum chemistry, since it lays the foundation for linear algebra, one of the most important tools of the scientist, and the study of molecular symmetries and groups.
 
-
-
 Recommended reading:
 >[!book] A First Course in Abstract Algebra by John B. Fraleigh
 >Seventh Edition, Pearson (2003)
@@ -239,7 +237,9 @@ Multivariate calculus extends to functions of several variables, encompassing th
 Calculus, together with linear algebra, forms the foundation for much of modern science. It is _absolutely essential_ to have a good grasp of calculus and multivariate calculus for theoretical chemists.
 
 Recommended reading:
-- ...
+>[!book] Vector Calculus by Jerrold E. Marsden and Anthony Tromba
+>![[Marsden_frontpage.png|300]]
+>
 
 ## Complex analysis
 
@@ -257,6 +257,8 @@ Recommended reading:
 >Springer (2001).
 >
 >A very pedagogical textbook.
+
+
 
 ## Differential Geometry
 
@@ -299,6 +301,13 @@ Recommended reading:
 >I have used this book sometimes, and it is quite good.
 >
 
+>[!book] Manifolds, Tensor Analysis, and Applications by Ralph Abraham, Jerrold E. Marsden, and Tudor Ratiu
+>![[Pasted image 20240829164212.png|300]]
+>Springer (1988)
+>Weblink: https://link.springer.com/book/10.1007/978-1-4612-1029-0
+>Archived book: https://archive.org/details/manifoldstensora00abra_0
+
+
 
 ## Convex Analysis
 
@@ -331,7 +340,8 @@ Functional analysis is a very useful topic for quantum chemists, especially when
 Recommended reading:
 >[!book] Introductory Functional Analysis with Applications by Erwin Kreyszig
 >
-![[Screenshot 2024-08-29 at 10.15.24.png|300]]
+> ![[Screenshot 2024-08-29 at 10.15.24.png|300]]
+
 
 ## ❤️ Calculus of Variations
 
@@ -345,6 +355,7 @@ Recommended reading:
 - Goldstein, Safko and Poole, "Classical Mechanics"
 - Zeidler, "Nonlinear functional analysis"
 - ...
+
 
 ## ❤️ Ordinary differential equations
 
@@ -360,16 +371,46 @@ Partial differential equations (PDEs) generalize ODEs to infinite dimensions, i.
 PDEs are very important for quantum chemistry.
 
 Recommended reading:
-* ...
-* ...
+>[!book] Partial Differential Equations by Lawrence C. Evans
+> ![[Evans-frontpage.png|300]]
+> Second Edition, American Mathematical Society (2010)
+> A popular textbook in PDEs.
+> Link to PDF (for preview): http://home.ustc.edu.cn/~wclw8181/wffc.files/Partial%20Differential%20Equations.Evans.pdf
 
-## Operator algebra
+>[!book] Functional Analysis, Sobolev Spaces, and Partial Differential Equations by Haim Brezis
+>
+> ![[Screenshot 2024-08-29 at 16.29.30.png|300]]
+>Springer (2011)
+> A highly readable book focusing on an abstract framework for PDEs.
+> Weblink: https://link.springer.com/book/10.1007/978-0-387-70914-7
+  
+ 
+
+## Operator Algebra
 
 In operator algebra, one studies algebras of operators over linear spaces, often Hilbert spaces. The algebras are often given structures inspired by quantum mechanics, such as canonical anticommutator or canonical commutator relations, e.g. the CAR and CCR algebras. It is a highly abstract branch of pure mathematics, and understanding the basic notions and results may be very useful for the study of manybody theory and quantum field theories.
 
 Recommended reading:
-- ...
-- ...
+
+>[!book] Operator Algebras and Quantum Statistical Mechanics by Ola Bratteli and Derek W. Robinson
+>![[Pasted image 20240829163631.png|300]]
+>Springer (1987)
+>A classic textbook, but quite dense, in my opinion.
+>Weblink: https://link.springer.com/book/10.1007/978-3-662-02520-8
+
+
+>[!book] A Course in Operator Theory by John B. Conway
+>![[Screenshot 2024-08-30 at 08.41.32.png|300]]
+>American Mathematical Society (1999)
+>Link: https://bookstore.ams.org/GSM/21
+>"This is an excellent course in operator theory and operator algebras ... leads the reader to deep new results and modern research topics ... the author has done more than just write a good book—he has managed to reveal the unspeakable charm of the subject, which is indeed the ‘source of happiness’ for operator theorists."  - _Mathematical Reviews_
+
+>[!book] A list of books for students studying operator algebras
+>Link: https://math.vanderbilt.edu/peters10/students.html
+>
+
+- See also [[Recommended General Mathematics Reading#"Mathematical Methods in Physics" by Blanchard and Brüning]]
+
 
 
 
@@ -383,12 +424,34 @@ Most equations in quantum chemistry cannot be solved analytically, and must be a
 Numerical analysis is very important for developing and understanding computer implementations of quantum chemistry algorithms.
 
 Recommended reading:
-* ...
+>[!book] Numerical Analysis by Francis B. Hildebrand
+>![[Pasted image 20240830084959.png|300]]
+>Dover (1956)
+>Archived version: https://archive.org/details/introduction_to_numerical_analysis_hildebrand
+>
+> A classic textbook.
+
+>[!book] Fundamentals of Numerical Computation by Tobin A. Driscoll and Richard J. Braun
+>![[Pasted image 20240830085921.png|300]]
+>SIAM
+>
+>A modern textbook of very high quality also available completely for free online. Python, MATLAB, and Julia versions.
+>Link: https://tobydriscoll.net/book/fnc/index.html
+>Complete book: https://tobydriscoll.net/fnc-julia/frontmatter.html
+>
+
 
 ## ❤️ Optimization and root finding
 
 Optimization, really a subfield of numerical analysis, deals with finding local or global extremal points of functions of several variables, as well as finding roots of systems of nonlinear equations. There are a multitude of algorithms, such as the method of steepest descent, Newton, and quasi-Newton methods. A very important topic for students of quantum chemistry, as many computational problems end up as an optimization problem.
 
 Recommended reading:
-- ...
-- 
+>[!book] Numerical Optimization by Jorge Nocedal and Stephen J. Wright
+>![[Screenshot 2024-08-30 at 08.46.35.png|300]]
+>Springer (2006)
+>Link to PDF (for preview): https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf
+>Link: https://link.springer.com/book/10.1007/978-0-387-40065-5
+>
+> This is an excellent book which I have used a lot.
+> 
+-

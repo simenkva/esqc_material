@@ -11,14 +11,11 @@
             "id": "f52567466027861c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/Mathematics.canvas",
-                "viewState": {
-                  "x": -1577.548102362207,
-                  "y": 82.66029921259842,
-                  "zoom": -0.5624467660019417
-                }
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -26,19 +23,15 @@
             "id": "8cbe611d0efdbeff",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/Quantum Chemistry.canvas",
-                "viewState": {
-                  "x": -128.946711409396,
-                  "y": -1537.365906040268,
-                  "zoom": -1.6553005974539796
-                }
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas/Quantum Chemistry.canvas",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas/Quantum Chemistry.canvas",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas/Quantum Chemistry.canvas"
+                "file": "index.md"
               }
             }
           }
@@ -168,23 +161,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cbe611d0efdbeff",
+  "active": "f52567466027861c",
   "lastOpenFiles": [
     "Recommended General Mathematics Reading.md",
-    "index.md",
     "Canvas/Quantum Chemistry.canvas",
+    "Recommended YouTube channels.md",
     "Canvas/Mathematics.canvas",
     "Mathematics Roadmap.md",
-    "Recommended YouTube channels.md",
-    "Attachments/Screenshot 2024-08-29 at 10.24.34.png",
-    "Attachments/Screenshot 2024-08-29 at 10.15.24.png",
-    "Attachments/cover.jpg",
-    "Attachments/Pasted image 20240829101030.png",
-    "Attachments/Pasted image 20240829100909.png",
-    "Attachments/Pasted image 20240829100530.png",
-    "Attachments/Pasted image 20240829100049.png",
-    "Attachments/Pasted image 20240829095847.png",
-    "Attachments/Pasted image 20240829095053.png",
-    "Attachments/Screenshot 2024-08-29 at 09.49.31.png"
+    "index.md",
+    "Documents/ESQC_Math_Exercises_2024.pdf",
+    "Documents",
+    "Attachments/Marsden_frontpage.png",
+    "Attachments/Pasted image 20240830085921.png",
+    "Attachments/Pasted image 20240830084959.png",
+    "Attachments/Screenshot 2024-08-30 at 08.46.35.png",
+    "Attachments/Screenshot 2024-08-30 at 08.41.32.png",
+    "Attachments/Pasted image 20240829164212.png",
+    "Attachments/Pasted image 20240829163631.png",
+    "Attachments/Screenshot 2024-08-29 at 16.29.30.png",
+    "Attachments/Evans-frontpage.png",
+    "Attachments/Screenshot 2024-08-29 at 10.24.34.png"
   ]
 }

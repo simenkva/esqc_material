@@ -48,12 +48,12 @@
     {
       "id": "230433998a4c183c",
       "type": "text",
-      "text": "###  [[Mathematics Roadmap#Logic and Set Theory|Logic and Set Theory]]\n- Foundations of mathematics\n- Metamathematics\n- Axioms, theorems, proofs\n- Formal set theory",
+      "text": "###  [[Mathematics Roadmap#Logic and Set Theory|Logic and Set Theory]]\n- Zermelo-Fraenkel with Axiom of Choice (ZFC)\n- Conventional foundation of mathematics\n- Metamathematics\n- Axioms, theorems, proofs",
       "styleAttributes": {},
       "x": -2000,
-      "y": -362,
+      "y": -380,
       "width": 344,
-      "height": 205,
+      "height": 240,
       "color": "2"
     },
     {

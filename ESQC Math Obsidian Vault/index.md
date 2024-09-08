@@ -1,8 +1,24 @@
+# Lecture notes, slides, and exercies
+
+Exercises: [[ESQC_Math_Exercises_2024.pdf]]
+Lecture notes: coming very soon
+Slides: coming very soon
+
+---
+
 # Hello!
 
-This is the Obsidian vault with material created by Simen Kvaal for the Mathematical Methods lectures at the ESQC 2024 summer school.
+>[!warning] Work in progress
+>This project is a work in progress. I would be very happy for any feedback, constructive criticism, additional resources, and ideas!
+>
+>Please contact me at simen.kvaal@kjemi.uio.no
+>
 
-You may choose files in the view on the left. The Canvas folder contains Obsidian Canvases, which contain notes organized in a graph.
+
+This is an Obsidian vault with material for the Mathematical Methods lectures at the [ESQC 2024](www.esqc.org) summer school.
+
+You may choose files in the view on the left. The Canvas folder contains Obsidian Canvases, which contain notes organized in a graph. Or simply follow the links below in the section [[#Mathematics Roadmap]]
+
 
 # Mathematics Roadmap
 
