@@ -1,8 +1,8 @@
 # Lecture notes, slides, and exercies
 
 Exercises: [[ESQC_Math_Exercises_2024.pdf]]
-Lecture notes: coming very soon
-Slides: coming very soon
+Lecture notes: [[ESQC_Math_2024.pdf]]
+Slides: [[Lecture 1.pptx]], [[Lecture 2.pptx]]
 
 ---
 

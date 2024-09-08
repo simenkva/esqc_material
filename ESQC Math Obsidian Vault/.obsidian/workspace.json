@@ -150,26 +150,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "obsidian42-brat:BRAT": false,
-      "webpage-html-export:Export Vault to HTML": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "f52567466027861c",
   "lastOpenFiles": [
     "Recommended General Mathematics Reading.md",
-    "Canvas/Quantum Chemistry.canvas",
+    "Mathematics Roadmap.md",
     "Recommended YouTube channels.md",
     "Canvas/Mathematics.canvas",
-    "Mathematics Roadmap.md",
+    "Canvas/Quantum Chemistry.canvas",
     "index.md",
+    "Documents/ESQC_Math_2024.pdf",
+    "Secret/ESQC_Math_Exercises_2024-tutor.pdf",
     "Documents/ESQC_Math_Exercises_2024.pdf",
+    "Secret",
+    "Documents/ESQC_Math_2024-1.pdf",
     "Documents",
     "Attachments/Marsden_frontpage.png",
     "Attachments/Pasted image 20240830085921.png",

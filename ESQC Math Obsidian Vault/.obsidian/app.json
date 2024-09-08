@@ -1,5 +1,9 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "Secret/"
+  ]
 }
