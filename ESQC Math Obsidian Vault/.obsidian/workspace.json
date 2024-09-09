@@ -11,9 +11,11 @@
             "id": "98603de00010aedd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Lecture 1.pdf"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Lecture 1.pdf",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Lecture 1.pdf",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Lecture 1.pdf"
+                "file": "index.md"
               }
             }
           }
@@ -149,13 +151,14 @@
   },
   "active": "98603de00010aedd",
   "lastOpenFiles": [
-    "Documents/ESQC_Math_Exercises_2024.pdf",
-    "Canvas/Quantum Chemistry.canvas",
     "Recommended General Mathematics Reading.md",
     "Recommended YouTube channels.md",
     "Mathematics Roadmap.md",
     "Canvas/Mathematics.canvas",
+    "Canvas/Quantum Chemistry.canvas",
     "index.md",
+    "Documents/ESQC_Math_Exercises_2024.pdf",
+    "Documents/Lecture 1.pdf",
     "Attachments/Halmos_finite_frontpage.jpg",
     "Attachments/Zeidler-frontpage.png",
     "Attachments/Beezer_frontpage.png",
@@ -167,7 +170,6 @@
     "Attachments/Pasted image 20240909094228.png",
     "Attachments/Screenshot 2024-09-09 at 09.37.11.png",
     "Attachments/Screenshot 2024-09-09 at 09.33.16.png",
-    "Documents/Lecture 1.pdf",
     "Documents/Lecture 2.pdf",
     "Documents/ESQC_Math_2024.pdf",
     "Secret/ESQC_Math_Exercises_2024-tutor.pdf",
