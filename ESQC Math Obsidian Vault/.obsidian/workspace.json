@@ -4,30 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "036fd8354662b441",
+        "id": "7e34f61e055ceb7c",
         "type": "tabs",
         "children": [
           {
-            "id": "f52567466027861c",
+            "id": "98603de00010aedd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cbe611d0efdbeff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "file": "Canvas/Quantum Chemistry.canvas",
+                "viewState": {
+                  "x": -94.59542234953281,
+                  "y": -1325.7660489567486,
+                  "zoom": -1.208814614698564
+                }
               }
             }
           }
@@ -97,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Canvas/Quantum Chemistry.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Canvas/Quantum Chemistry.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Canvas/Quantum Chemistry.canvas"
               }
             }
           }
@@ -161,31 +152,32 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f52567466027861c",
+  "active": "98603de00010aedd",
   "lastOpenFiles": [
     "Recommended General Mathematics Reading.md",
-    "Mathematics Roadmap.md",
     "Recommended YouTube channels.md",
+    "Mathematics Roadmap.md",
     "Canvas/Mathematics.canvas",
     "Canvas/Quantum Chemistry.canvas",
     "index.md",
+    "Attachments/Halmos_finite_frontpage.jpg",
+    "Attachments/Zeidler-frontpage.png",
+    "Attachments/Beezer_frontpage.png",
+    "Attachments/Busam_Freitag-frontpage.png",
+    "Attachments/Set Theory for the Working Mathematician.png",
+    "Attachments/Ciesielski-frontpage.png",
+    "Documents/ESQC_Math_Exercises_2024_2pages.pdf",
+    "Documents/ESQC_Math_Exercises_2024.pdf",
+    "Attachments/Pasted image 20240909094419.png",
+    "Attachments/Pasted image 20240909094228.png",
+    "Attachments/Screenshot 2024-09-09 at 09.37.11.png",
+    "Attachments/Screenshot 2024-09-09 at 09.33.16.png",
     "Documents/Lecture 1.pdf",
     "Documents/Lecture 2.pdf",
     "Documents/ESQC_Math_2024.pdf",
     "Secret/ESQC_Math_Exercises_2024-tutor.pdf",
-    "Documents/ESQC_Math_Exercises_2024.pdf",
     "Secret",
     "Documents/ESQC_Math_2024-1.pdf",
-    "Documents",
-    "Attachments/Marsden_frontpage.png",
-    "Attachments/Pasted image 20240830085921.png",
-    "Attachments/Pasted image 20240830084959.png",
-    "Attachments/Screenshot 2024-08-30 at 08.46.35.png",
-    "Attachments/Screenshot 2024-08-30 at 08.41.32.png",
-    "Attachments/Pasted image 20240829164212.png",
-    "Attachments/Pasted image 20240829163631.png",
-    "Attachments/Screenshot 2024-08-29 at 16.29.30.png",
-    "Attachments/Evans-frontpage.png",
-    "Attachments/Screenshot 2024-08-29 at 10.24.34.png"
+    "Documents"
   ]
 }
