@@ -4,6 +4,7 @@ Exercises: [[ESQC_Math_Exercises_2024.pdf]]
 Lecture notes: [[ESQC_Math_2024.pdf]]
 Slides for Lecture 1: [[Lecture 1.pdf]], [[Lecture 1.pptx]], 
 Slides for Lecture 2: [[Lecture 2.pdf]], [[Lecture 2.pptx]]
+Slides for Lecture 3: [[Lecture 3.pdf]], [[Lecture 3.pptx]]
 
 ---
 
