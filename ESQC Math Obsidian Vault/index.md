@@ -5,6 +5,8 @@ Lecture notes: [[ESQC_Math_2024.pdf]]
 Slides for Lecture 1: [[Lecture 1.pdf]], [[Lecture 1.pptx]], 
 Slides for Lecture 2: [[Lecture 2.pdf]], [[Lecture 2.pptx]]
 Slides for Lecture 3: [[Lecture 3.pdf]], [[Lecture 3.pptx]]
+Slides for Lecture 4: [[Lecture 4.pdf]], [[Lecture 4.pptx]]
+
 
 ---
 
